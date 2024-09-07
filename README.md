@@ -27,7 +27,7 @@ pip install torch torchvision torchaudio transformers</code></pre>
     <pre><code>python tradingbot.py</code></pre>
 
 <h2>License</h2>
-    <p>MIT License</p>
+    <p>Licensed under the MIT License.</p>
 
 </body>
 </html>
